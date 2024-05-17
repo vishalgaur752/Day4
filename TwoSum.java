@@ -11,6 +11,7 @@ public class TwoSum {
             }
         }
         return null;
+        
         // Optimized Approch
         // HashMap<Integer, Integer> hm = new HashMap<Integer, Integer>();
         // for (int i = 0; i < nums.length; i++) {
